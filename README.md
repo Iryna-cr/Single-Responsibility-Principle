@@ -1,1 +1,1 @@
-# Solid
+# Single responsibility principle
